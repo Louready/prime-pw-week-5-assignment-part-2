@@ -1,0 +1,12 @@
+header {
+  text-align: center;
+  background-color: lightgreen;
+  opacity: 70%;
+}
+main {
+  background-color: grey;
+}
+body {
+
+background-image: url(record.png);
+}
