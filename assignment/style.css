@@ -2,11 +2,15 @@ header {
   text-align: center;
   background-color: lightgreen;
   opacity: 70%;
+  color: purple;
 }
 main {
   background-color: grey;
+  opacity: 87%;
+  padding: 1em;
 }
 body {
 
 background-image: url(record.png);
+margin: 0px;
 }
